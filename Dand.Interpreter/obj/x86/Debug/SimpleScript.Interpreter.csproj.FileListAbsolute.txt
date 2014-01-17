@@ -1,0 +1,91 @@
+C:\Users\Tigran\documents\visual studio 2010\Projects\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.Interpreter.exe
+C:\Users\Tigran\documents\visual studio 2010\Projects\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.Interpreter.pdb
+C:\Users\Tigran\documents\visual studio 2010\Projects\SimpleScript\SimpleScript.Interpreter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tigran\documents\visual studio 2010\Projects\SimpleScript\SimpleScript.Interpreter\obj\x86\Debug\SimpleScript.Interpreter.exe
+C:\Users\Tigran\documents\visual studio 2010\Projects\SimpleScript\SimpleScript.Interpreter\obj\x86\Debug\SimpleScript.Interpreter.pdb
+C:\Users\Tigran\documents\visual studio 2010\Projects\SimpleScript\SimpleScript.Interpreter\bin\Debug\QUT.ShiftReduceParser.dll
+C:\Users\Tigran\documents\visual studio 2010\Projects\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.Analyzing.dll
+C:\Users\Tigran\documents\visual studio 2010\Projects\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.RunTime.dll
+C:\Users\Tigran\documents\visual studio 2010\Projects\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.Analyzing.pdb
+C:\Users\Tigran\documents\visual studio 2010\Projects\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.RunTime.pdb
+C:\Users\Tigran\documents\visual studio 2010\Projects\SimpleScript\SimpleScript.Interpreter\bin\Debug\GCD_Example.ss
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\SimpleScript\SimpleScript.Interpreter\bin\Debug\GCD_Example.ss
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.Interpreter.exe
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.Interpreter.pdb
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.Analyzing.dll
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.RunTime.dll
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.Analyzing.pdb
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.RunTime.pdb
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\SimpleScript\SimpleScript.Interpreter\obj\x86\Debug\SimpleScript.Interpreter.csprojResolveAssemblyReference.cache
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\SimpleScript\SimpleScript.Interpreter\obj\x86\Debug\SimpleScript.Interpreter.exe
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\SimpleScript\SimpleScript.Interpreter\obj\x86\Debug\SimpleScript.Interpreter.pdb
+C:\Users\Ando\Desktop\d_and_a\SimpleScript\SimpleScript.Interpreter\bin\Debug\GCD_Example.ss
+C:\Users\Ando\Desktop\d_and_a\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.Interpreter.exe
+C:\Users\Ando\Desktop\d_and_a\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.Interpreter.pdb
+C:\Users\Ando\Desktop\d_and_a\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.Analyzing.dll
+C:\Users\Ando\Desktop\d_and_a\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.RunTime.dll
+C:\Users\Ando\Desktop\d_and_a\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.Analyzing.pdb
+C:\Users\Ando\Desktop\d_and_a\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.RunTime.pdb
+C:\Users\Ando\Desktop\d_and_a\SimpleScript\SimpleScript.Interpreter\obj\x86\Debug\SimpleScript.Interpreter.csprojResolveAssemblyReference.cache
+C:\Users\Ando\Desktop\d_and_a\SimpleScript\SimpleScript.Interpreter\obj\x86\Debug\SimpleScript.Interpreter.exe
+C:\Users\Ando\Desktop\d_and_a\SimpleScript\SimpleScript.Interpreter\obj\x86\Debug\SimpleScript.Interpreter.pdb
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\12.1.2014\SimpleScript\SimpleScript.Interpreter\obj\x86\Debug\SimpleScript.Interpreter.exe
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\12.1.2014\SimpleScript\SimpleScript.Interpreter\obj\x86\Debug\SimpleScript.Interpreter.pdb
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\12.1.2014\SimpleScript\SimpleScript.Interpreter\bin\Debug\GCD_Example.ss
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\12.1.2014\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.Interpreter.exe
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\12.1.2014\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.Interpreter.pdb
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\12.1.2014\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.Analyzing.dll
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\12.1.2014\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.RunTime.dll
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\12.1.2014\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.Analyzing.pdb
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\12.1.2014\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.RunTime.pdb
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\12.1.2014\SimpleScript\SimpleScript.Interpreter\obj\x86\Debug\SimpleScript.Interpreter.csprojResolveAssemblyReference.cache
+C:\Users\Ando\Desktop\d_and_a\12.1.2014_06.30\12.1.2014\SimpleScript\SimpleScript.Interpreter\bin\Debug\GCD_Example.ss
+C:\Users\Ando\Desktop\d_and_a\12.1.2014_06.30\12.1.2014\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.Interpreter.exe
+C:\Users\Ando\Desktop\d_and_a\12.1.2014_06.30\12.1.2014\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.Interpreter.pdb
+C:\Users\Ando\Desktop\d_and_a\12.1.2014_06.30\12.1.2014\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.Analyzing.dll
+C:\Users\Ando\Desktop\d_and_a\12.1.2014_06.30\12.1.2014\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.RunTime.dll
+C:\Users\Ando\Desktop\d_and_a\12.1.2014_06.30\12.1.2014\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.Analyzing.pdb
+C:\Users\Ando\Desktop\d_and_a\12.1.2014_06.30\12.1.2014\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.RunTime.pdb
+C:\Users\Ando\Desktop\d_and_a\12.1.2014_06.30\12.1.2014\SimpleScript\SimpleScript.Interpreter\obj\x86\Debug\SimpleScript.Interpreter.csprojResolveAssemblyReference.cache
+C:\Users\Ando\Desktop\d_and_a\12.1.2014_06.30\12.1.2014\SimpleScript\SimpleScript.Interpreter\obj\x86\Debug\SimpleScript.Interpreter.exe
+C:\Users\Ando\Desktop\d_and_a\12.1.2014_06.30\12.1.2014\SimpleScript\SimpleScript.Interpreter\obj\x86\Debug\SimpleScript.Interpreter.pdb
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\13.1.2014_12.40\SimpleScript\SimpleScript.Interpreter\bin\Debug\GCD_Example.ss
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\13.1.2014_12.40\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.Interpreter.exe
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\13.1.2014_12.40\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.Interpreter.pdb
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\13.1.2014_12.40\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.Analyzing.dll
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\13.1.2014_12.40\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.RunTime.dll
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\13.1.2014_12.40\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.Analyzing.pdb
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\13.1.2014_12.40\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.RunTime.pdb
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\13.1.2014_12.40\SimpleScript\SimpleScript.Interpreter\obj\x86\Debug\SimpleScript.Interpreter.csprojResolveAssemblyReference.cache
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\13.1.2014_12.40\SimpleScript\SimpleScript.Interpreter\obj\x86\Debug\SimpleScript.Interpreter.exe
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\13.1.2014_12.40\SimpleScript\SimpleScript.Interpreter\obj\x86\Debug\SimpleScript.Interpreter.pdb
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\15.1.2014 2.32\SimpleScript\SimpleScript.Interpreter\bin\Debug\GCD_Example.ss
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\15.1.2014 2.32\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.Interpreter.exe
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\15.1.2014 2.32\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.Interpreter.pdb
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\15.1.2014 2.32\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.Analyzing.dll
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\15.1.2014 2.32\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.RunTime.dll
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\15.1.2014 2.32\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.Analyzing.pdb
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\15.1.2014 2.32\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.RunTime.pdb
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\15.1.2014 2.32\SimpleScript\SimpleScript.Interpreter\obj\x86\Debug\SimpleScript.Interpreter.csprojResolveAssemblyReference.cache
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\15.1.2014 2.32\SimpleScript\SimpleScript.Interpreter\obj\x86\Debug\SimpleScript.Interpreter.exe
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\15.1.2014 2.32\SimpleScript\SimpleScript.Interpreter\obj\x86\Debug\SimpleScript.Interpreter.pdb
+C:\Users\Ando\Desktop\d_and_a\15.1.2014 3.00\15.1.2014 3.00\SimpleScript\SimpleScript.Interpreter\bin\Debug\GCD_Example.ss
+C:\Users\Ando\Desktop\d_and_a\15.1.2014 3.00\15.1.2014 3.00\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.Interpreter.exe
+C:\Users\Ando\Desktop\d_and_a\15.1.2014 3.00\15.1.2014 3.00\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.Interpreter.pdb
+C:\Users\Ando\Desktop\d_and_a\15.1.2014 3.00\15.1.2014 3.00\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.Analyzing.dll
+C:\Users\Ando\Desktop\d_and_a\15.1.2014 3.00\15.1.2014 3.00\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.RunTime.dll
+C:\Users\Ando\Desktop\d_and_a\15.1.2014 3.00\15.1.2014 3.00\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.Analyzing.pdb
+C:\Users\Ando\Desktop\d_and_a\15.1.2014 3.00\15.1.2014 3.00\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.RunTime.pdb
+C:\Users\Ando\Desktop\d_and_a\15.1.2014 3.00\15.1.2014 3.00\SimpleScript\SimpleScript.Interpreter\obj\x86\Debug\SimpleScript.Interpreter.csprojResolveAssemblyReference.cache
+C:\Users\Ando\Desktop\d_and_a\15.1.2014 3.00\15.1.2014 3.00\SimpleScript\SimpleScript.Interpreter\obj\x86\Debug\SimpleScript.Interpreter.exe
+C:\Users\Ando\Desktop\d_and_a\15.1.2014 3.00\15.1.2014 3.00\SimpleScript\SimpleScript.Interpreter\obj\x86\Debug\SimpleScript.Interpreter.pdb
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 1.05\SimpleScript\SimpleScript.Interpreter\bin\Debug\GCD_Example.ss
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 1.05\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.Interpreter.exe
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 1.05\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.Interpreter.pdb
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 1.05\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.Analyzing.dll
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 1.05\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.RunTime.dll
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 1.05\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.Analyzing.pdb
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 1.05\SimpleScript\SimpleScript.Interpreter\bin\Debug\SimpleScript.RunTime.pdb
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 1.05\SimpleScript\SimpleScript.Interpreter\obj\x86\Debug\SimpleScript.Interpreter.csprojResolveAssemblyReference.cache
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 1.05\SimpleScript\SimpleScript.Interpreter\obj\x86\Debug\SimpleScript.Interpreter.exe
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 1.05\SimpleScript\SimpleScript.Interpreter\obj\x86\Debug\SimpleScript.Interpreter.pdb

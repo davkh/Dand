@@ -1,0 +1,11 @@
+﻿<Window x:Class="Dand.GUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="700" Width="800" ResizeMode="NoResize" Loaded="Window_Loaded">
+    <Grid>
+        <Button Name="Translate" Content="Translate" HorizontalAlignment="Left" Margin="246,545,0,0" VerticalAlignment="Top" Width="250" Click="Translate_Click" Height="61"/>
+        <TextBox Name="MainCode" AcceptsReturn="True" HorizontalAlignment="Left" Height="305" Margin="10,10,0,0" TextWrapping="Wrap" Text="Enter Your Dand Code Here" VerticalAlignment="Top" Width="355"/>
+        <TextBox Name="TranslatedCode"  AcceptsReturn="True" HorizontalAlignment="Left" Height="305" Margin="365,10,0,0" TextWrapping="Wrap" Text="Translated Stack Machine Code" VerticalAlignment="Top" Width="388"/>
+        <TextBlock Name="ErrorCode" Background="Green" HorizontalAlignment="Left" Height="183" Margin="10,320,0,0" TextWrapping="Wrap" Text="No Error" VerticalAlignment="Top" Width="743"/>
+    </Grid>
+</Window>

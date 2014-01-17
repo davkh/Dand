@@ -1,0 +1,128 @@
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\13.1.2014_12.40\SimpleScript\Dand.GUI\bin\Debug\Dand.GUI.exe.config
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\13.1.2014_12.40\SimpleScript\Dand.GUI\obj\Debug\Dand.GUI.csprojResolveAssemblyReference.cache
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\13.1.2014_12.40\SimpleScript\Dand.GUI\obj\Debug\MainWindow.baml
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\13.1.2014_12.40\SimpleScript\Dand.GUI\obj\Debug\MainWindow.g.cs
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\13.1.2014_12.40\SimpleScript\Dand.GUI\obj\Debug\App.g.cs
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\13.1.2014_12.40\SimpleScript\Dand.GUI\obj\Debug\Dand.GUI_MarkupCompile.cache
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\13.1.2014_12.40\SimpleScript\Dand.GUI\obj\Debug\Dand.GUI.g.resources
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\13.1.2014_12.40\SimpleScript\Dand.GUI\obj\Debug\Dand.GUI.Properties.Resources.resources
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\13.1.2014_12.40\SimpleScript\Dand.GUI\obj\Debug\Dand.GUI.csproj.GenerateResource.Cache
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\13.1.2014_12.40\SimpleScript\Dand.GUI\bin\Debug\Dand.GUI.exe
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\13.1.2014_12.40\SimpleScript\Dand.GUI\bin\Debug\Dand.GUI.pdb
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\13.1.2014_12.40\SimpleScript\Dand.GUI\bin\Debug\QUT.ShiftReduceParser.dll
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\13.1.2014_12.40\SimpleScript\Dand.GUI\bin\Debug\SimpleScript.Analyzing.dll
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\13.1.2014_12.40\SimpleScript\Dand.GUI\bin\Debug\SimpleScript.RunTime.dll
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\13.1.2014_12.40\SimpleScript\Dand.GUI\bin\Debug\SimpleScript.Analyzing.pdb
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\13.1.2014_12.40\SimpleScript\Dand.GUI\bin\Debug\SimpleScript.RunTime.pdb
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\13.1.2014_12.40\SimpleScript\Dand.GUI\obj\Debug\Dand.GUI.exe
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\13.1.2014_12.40\SimpleScript\Dand.GUI\obj\Debug\Dand.GUI.pdb
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\15.1.2014 2.32\SimpleScript\Dand.GUI\bin\Debug\Dand.GUI.exe.config
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\15.1.2014 2.32\SimpleScript\Dand.GUI\obj\Debug\Dand.GUI.exe
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\15.1.2014 2.32\SimpleScript\Dand.GUI\obj\Debug\Dand.GUI.pdb
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\15.1.2014 2.32\SimpleScript\Dand.GUI\bin\Debug\Dand.GUI.exe
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\15.1.2014 2.32\SimpleScript\Dand.GUI\bin\Debug\Dand.GUI.pdb
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\15.1.2014 2.32\SimpleScript\Dand.GUI\bin\Debug\QUT.ShiftReduceParser.dll
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\15.1.2014 2.32\SimpleScript\Dand.GUI\bin\Debug\SimpleScript.Analyzing.dll
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\15.1.2014 2.32\SimpleScript\Dand.GUI\bin\Debug\SimpleScript.RunTime.dll
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\15.1.2014 2.32\SimpleScript\Dand.GUI\bin\Debug\SimpleScript.Analyzing.pdb
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\15.1.2014 2.32\SimpleScript\Dand.GUI\bin\Debug\SimpleScript.RunTime.pdb
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\15.1.2014 2.32\SimpleScript\Dand.GUI\obj\Debug\Dand.GUI.csprojResolveAssemblyReference.cache
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\15.1.2014 2.32\SimpleScript\Dand.GUI\obj\Debug\MainWindow.baml
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\15.1.2014 2.32\SimpleScript\Dand.GUI\obj\Debug\MainWindow.g.cs
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\15.1.2014 2.32\SimpleScript\Dand.GUI\obj\Debug\App.g.cs
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\15.1.2014 2.32\SimpleScript\Dand.GUI\obj\Debug\Dand.GUI_MarkupCompile.cache
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\15.1.2014 2.32\SimpleScript\Dand.GUI\obj\Debug\Dand.GUI.g.resources
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\15.1.2014 2.32\SimpleScript\Dand.GUI\obj\Debug\Dand.GUI.Properties.Resources.resources
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\15.1.2014 2.32\SimpleScript\Dand.GUI\obj\Debug\Dand.GUI.csproj.GenerateResource.Cache
+C:\Users\Ando\Desktop\d_and_a\15.1.2014 3.00\15.1.2014 3.00\SimpleScript\Dand.GUI\bin\Debug\Dand.GUI.exe.config
+C:\Users\Ando\Desktop\d_and_a\15.1.2014 3.00\15.1.2014 3.00\SimpleScript\Dand.GUI\bin\Debug\Dand.GUI.exe
+C:\Users\Ando\Desktop\d_and_a\15.1.2014 3.00\15.1.2014 3.00\SimpleScript\Dand.GUI\bin\Debug\Dand.GUI.pdb
+C:\Users\Ando\Desktop\d_and_a\15.1.2014 3.00\15.1.2014 3.00\SimpleScript\Dand.GUI\bin\Debug\SimpleScript.Analyzing.dll
+C:\Users\Ando\Desktop\d_and_a\15.1.2014 3.00\15.1.2014 3.00\SimpleScript\Dand.GUI\bin\Debug\SimpleScript.RunTime.dll
+C:\Users\Ando\Desktop\d_and_a\15.1.2014 3.00\15.1.2014 3.00\SimpleScript\Dand.GUI\bin\Debug\SimpleScript.Analyzing.pdb
+C:\Users\Ando\Desktop\d_and_a\15.1.2014 3.00\15.1.2014 3.00\SimpleScript\Dand.GUI\bin\Debug\SimpleScript.RunTime.pdb
+C:\Users\Ando\Desktop\d_and_a\15.1.2014 3.00\15.1.2014 3.00\SimpleScript\Dand.GUI\obj\Debug\Dand.GUI.csprojResolveAssemblyReference.cache
+C:\Users\Ando\Desktop\d_and_a\15.1.2014 3.00\15.1.2014 3.00\SimpleScript\Dand.GUI\obj\Debug\MainWindow.baml
+C:\Users\Ando\Desktop\d_and_a\15.1.2014 3.00\15.1.2014 3.00\SimpleScript\Dand.GUI\obj\Debug\MainWindow.g.cs
+C:\Users\Ando\Desktop\d_and_a\15.1.2014 3.00\15.1.2014 3.00\SimpleScript\Dand.GUI\obj\Debug\App.g.cs
+C:\Users\Ando\Desktop\d_and_a\15.1.2014 3.00\15.1.2014 3.00\SimpleScript\Dand.GUI\obj\Debug\Dand.GUI_MarkupCompile.cache
+C:\Users\Ando\Desktop\d_and_a\15.1.2014 3.00\15.1.2014 3.00\SimpleScript\Dand.GUI\obj\Debug\Dand.GUI.g.resources
+C:\Users\Ando\Desktop\d_and_a\15.1.2014 3.00\15.1.2014 3.00\SimpleScript\Dand.GUI\obj\Debug\Dand.GUI.Properties.Resources.resources
+C:\Users\Ando\Desktop\d_and_a\15.1.2014 3.00\15.1.2014 3.00\SimpleScript\Dand.GUI\obj\Debug\Dand.GUI.csproj.GenerateResource.Cache
+C:\Users\Ando\Desktop\d_and_a\15.1.2014 3.00\15.1.2014 3.00\SimpleScript\Dand.GUI\obj\Debug\Dand.GUI.exe
+C:\Users\Ando\Desktop\d_and_a\15.1.2014 3.00\15.1.2014 3.00\SimpleScript\Dand.GUI\obj\Debug\Dand.GUI.pdb
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 1.05\SimpleScript\Dand.GUI\bin\Debug\Dand.GUI.exe.config
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 1.05\SimpleScript\Dand.GUI\bin\Debug\Dand.GUI.exe
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 1.05\SimpleScript\Dand.GUI\bin\Debug\Dand.GUI.pdb
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 1.05\SimpleScript\Dand.GUI\bin\Debug\QUT.ShiftReduceParser.dll
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 1.05\SimpleScript\Dand.GUI\bin\Debug\SimpleScript.Analyzing.dll
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 1.05\SimpleScript\Dand.GUI\bin\Debug\SimpleScript.RunTime.dll
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 1.05\SimpleScript\Dand.GUI\bin\Debug\SimpleScript.Analyzing.pdb
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 1.05\SimpleScript\Dand.GUI\bin\Debug\SimpleScript.RunTime.pdb
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 1.05\SimpleScript\Dand.GUI\obj\Debug\Dand.GUI.csprojResolveAssemblyReference.cache
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 1.05\SimpleScript\Dand.GUI\obj\Debug\MainWindow.baml
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 1.05\SimpleScript\Dand.GUI\obj\Debug\MainWindow.g.cs
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 1.05\SimpleScript\Dand.GUI\obj\Debug\App.g.cs
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 1.05\SimpleScript\Dand.GUI\obj\Debug\Dand.GUI_MarkupCompile.cache
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 1.05\SimpleScript\Dand.GUI\obj\Debug\Dand.GUI.g.resources
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 1.05\SimpleScript\Dand.GUI\obj\Debug\Dand.GUI.Properties.Resources.resources
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 1.05\SimpleScript\Dand.GUI\obj\Debug\Dand.GUI.csproj.GenerateResource.Cache
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 1.05\SimpleScript\Dand.GUI\obj\Debug\Dand.GUI.exe
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 1.05\SimpleScript\Dand.GUI\obj\Debug\Dand.GUI.pdb
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 3.30\SimpleScript\Dand.GUI\bin\Debug\Dand.GUI.exe.config
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 3.30\SimpleScript\Dand.GUI\bin\Debug\Dand.GUI.exe
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 3.30\SimpleScript\Dand.GUI\bin\Debug\Dand.GUI.pdb
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 3.30\SimpleScript\Dand.GUI\bin\Debug\Dand.Analyzing.dll
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 3.30\SimpleScript\Dand.GUI\bin\Debug\Dand.RunTime.dll
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 3.30\SimpleScript\Dand.GUI\bin\Debug\QUT.ShiftReduceParser.dll
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 3.30\SimpleScript\Dand.GUI\bin\Debug\Dand.Analyzing.pdb
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 3.30\SimpleScript\Dand.GUI\bin\Debug\Dand.RunTime.pdb
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 3.30\SimpleScript\Dand.GUI\obj\Debug\Dand.GUI.csprojResolveAssemblyReference.cache
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 3.30\SimpleScript\Dand.GUI\obj\Debug\MainWindow.baml
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 3.30\SimpleScript\Dand.GUI\obj\Debug\MainWindow.g.cs
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 3.30\SimpleScript\Dand.GUI\obj\Debug\App.g.cs
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 3.30\SimpleScript\Dand.GUI\obj\Debug\Dand.GUI_MarkupCompile.cache
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 3.30\SimpleScript\Dand.GUI\obj\Debug\Dand.GUI.g.resources
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 3.30\SimpleScript\Dand.GUI\obj\Debug\Dand.GUI.Properties.Resources.resources
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 3.30\SimpleScript\Dand.GUI\obj\Debug\Dand.GUI.csproj.GenerateResource.Cache
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 3.30\SimpleScript\Dand.GUI\obj\Debug\Dand.GUI.exe
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 3.30\SimpleScript\Dand.GUI\obj\Debug\Dand.GUI.pdb
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 3.30\Dand\Dand.GUI\bin\Debug\Dand.GUI.exe.config
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 3.30\Dand\Dand.GUI\bin\Debug\Dand.GUI.exe
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 3.30\Dand\Dand.GUI\bin\Debug\Dand.GUI.pdb
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 3.30\Dand\Dand.GUI\bin\Debug\Dand.Analyzing.dll
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 3.30\Dand\Dand.GUI\bin\Debug\Dand.RunTime.dll
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 3.30\Dand\Dand.GUI\bin\Debug\QUT.ShiftReduceParser.dll
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 3.30\Dand\Dand.GUI\bin\Debug\Dand.Analyzing.pdb
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 3.30\Dand\Dand.GUI\bin\Debug\Dand.RunTime.pdb
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 3.30\Dand\Dand.GUI\obj\Debug\Dand.GUI.csprojResolveAssemblyReference.cache
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 3.30\Dand\Dand.GUI\obj\Debug\MainWindow.baml
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 3.30\Dand\Dand.GUI\obj\Debug\MainWindow.g.cs
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 3.30\Dand\Dand.GUI\obj\Debug\App.g.cs
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 3.30\Dand\Dand.GUI\obj\Debug\Dand.GUI_MarkupCompile.cache
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 3.30\Dand\Dand.GUI\obj\Debug\Dand.GUI.g.resources
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 3.30\Dand\Dand.GUI\obj\Debug\Dand.GUI.Properties.Resources.resources
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 3.30\Dand\Dand.GUI\obj\Debug\Dand.GUI.csproj.GenerateResource.Cache
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 3.30\Dand\Dand.GUI\obj\Debug\Dand.GUI.exe
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 3.30\Dand\Dand.GUI\obj\Debug\Dand.GUI.pdb
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 5.00PM\Dand\Dand.GUI\bin\Debug\Dand.GUI.exe.config
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 5.00PM\Dand\Dand.GUI\obj\Debug\Dand.GUI.exe
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 5.00PM\Dand\Dand.GUI\obj\Debug\Dand.GUI.pdb
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 5.00PM\Dand\Dand.GUI\bin\Debug\Dand.GUI.exe
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 5.00PM\Dand\Dand.GUI\bin\Debug\Dand.GUI.pdb
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 5.00PM\Dand\Dand.GUI\bin\Debug\Dand.Analyzing.dll
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 5.00PM\Dand\Dand.GUI\bin\Debug\Dand.RunTime.dll
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 5.00PM\Dand\Dand.GUI\bin\Debug\QUT.ShiftReduceParser.dll
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 5.00PM\Dand\Dand.GUI\bin\Debug\Dand.Analyzing.pdb
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 5.00PM\Dand\Dand.GUI\bin\Debug\Dand.RunTime.pdb
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 5.00PM\Dand\Dand.GUI\obj\Debug\Dand.GUI.csprojResolveAssemblyReference.cache
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 5.00PM\Dand\Dand.GUI\obj\Debug\MainWindow.baml
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 5.00PM\Dand\Dand.GUI\obj\Debug\MainWindow.g.cs
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 5.00PM\Dand\Dand.GUI\obj\Debug\App.g.cs
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 5.00PM\Dand\Dand.GUI\obj\Debug\Dand.GUI_MarkupCompile.cache
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 5.00PM\Dand\Dand.GUI\obj\Debug\Dand.GUI.g.resources
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 5.00PM\Dand\Dand.GUI\obj\Debug\Dand.GUI.Properties.Resources.resources
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 5.00PM\Dand\Dand.GUI\obj\Debug\Dand.GUI.csproj.GenerateResource.Cache
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 12.00PM\Dand\Dand.GUI\bin\Debug\Dand.GUI.exe.config
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 12.00PM\Dand\Dand.GUI\obj\Debug\Dand.GUI.exe
+C:\Users\INSOL-DAVIT\Desktop\Badalyan\16.1.2014 12.00PM\Dand\Dand.GUI\obj\Debug\Dand.GUI.pdb
